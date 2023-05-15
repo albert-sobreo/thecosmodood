@@ -5,7 +5,10 @@
 import { fileURLToPath } from "node:url"
 import fs from 'fs'
 export default defineNuxtConfig({
-    modules: ['@nuxtjs/tailwindcss'],
+    modules: ['@nuxtjs/tailwindcss', '@nuxtjs/google-adsense'],
+    'google-adsense': {
+        id: 'ca-pub-1472925723025064'
+    },
     devServer: {
         host: "thecosmodood.com",
         port: 443,
