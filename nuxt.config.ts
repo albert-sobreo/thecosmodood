@@ -5,6 +5,7 @@
 import { fileURLToPath } from "node:url"
 import fs from 'fs'
 export default defineNuxtConfig({
+    modules: ['@nuxtjs/tailwindcss'],
     devServer: {
         host: "thecosmodood.com",
         port: 443,
