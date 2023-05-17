@@ -1,7 +1,7 @@
 <template>
     <div class="flex flex-col items-center justify-center w-full">
         <!-- WELCOME -->
-        <div class="flex items-start flex-col">
+        <div class="flex items-start flex-col mt-20 md:mt-0">
             <span class="jetbrains-mono text-xl md:text-4xl font-normal text-gray-600">
                 Welcome to
             </span>
@@ -20,7 +20,8 @@
 
         <!-- LATEST ARTICLE -->
         <div class="mt-4 flex items-start">
-            <span class="link">Check Latest Article</span>
+            <NuxtLink class="link" to="/unveiling-the-suns-fiery-dance-a-tale-of-solar-flares">Check Latest Article</NuxtLink>
         </div>
     </div>
 </template>
+
