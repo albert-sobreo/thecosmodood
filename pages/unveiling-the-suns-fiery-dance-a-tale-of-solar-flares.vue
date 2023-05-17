@@ -1,4 +1,5 @@
 <template class="">
+    <Header title="Unveiling the Sun's Fiery Dance: A Tale of Solar Flares" />
     <Navbar/>
     <div class="container mx-auto w-full md:w-1/2 flex flex-col gap-12 px-4 jetbrains-mono text-gray-400 mb-12">
         <p class="font-bold text-2xl md:text-4xl text-white">Unveiling the Sun's Fiery Dance: A Tale of Solar Flares</p>

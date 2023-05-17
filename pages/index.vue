@@ -1,4 +1,5 @@
 <template class="">
+    <Header title="Home" />
     <Navbar/>
     <div class="flex items-center jetbrains-mono">
         <Welcome/>
