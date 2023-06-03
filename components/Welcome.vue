@@ -20,7 +20,7 @@
 
         <!-- LATEST ARTICLE -->
         <div class="mt-4 flex items-start">
-            <NuxtLink class="link" to="/unveiling-the-suns-fiery-dance-a-tale-of-solar-flares">Check Latest Article</NuxtLink>
+            <NuxtLink class="link" to="/can-earth-have-rings">Check Latest Article</NuxtLink>
         </div>
     </div>
 </template>
