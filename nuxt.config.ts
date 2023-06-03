@@ -18,5 +18,3 @@ export default defineNuxtConfig({
         }
     }
 })
-
-// HELLO THERE
