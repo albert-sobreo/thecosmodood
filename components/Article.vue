@@ -1,7 +1,7 @@
 <template>
     <NuxtLink :to="address" class="flex flex-row bg-gray-950 cursor-pointer transition hover:bg-gray-900 rounded-3xl overflow-auto">
         <!-- image -->
-        <img :src="image" width="250" class="bg-gray-900 p-4">
+        <img :src="image" width="250" class="p-4 rounded-3xl">
 
         <!-- TITLE AND SUMMARY -->
         <div class="flex flex-col gap-2 p-4">

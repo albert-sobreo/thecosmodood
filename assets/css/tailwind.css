@@ -8,7 +8,11 @@
     -moz-osx-font-smoothing: grayscale;
   }
   body{
-    @apply caret-slate-500 bg-black text-white
+    @apply caret-slate-500 text-white;
+  }
+
+  body{
+    background-color: #040710;
   }
 
   input:read-only{
