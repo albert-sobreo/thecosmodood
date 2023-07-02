@@ -11,7 +11,7 @@
                 <!-- LEFT -->
                 <div class="flex flex-col items-center sm:items-start pt-20 sm:pl-12">
                     <!-- TITLE -->
-                    <span class="font-bold self-center text-5xl sm:text-7xl tracking-tighter">THE COSMO DOOD</span>
+                    <span class="font-bold self-center text-4xl sm:text-7xl tracking-tighter">THE COSMO DOOD</span>
 
                     
                     <img src="@/assets/media/earth.png" class="sm:hidden w-full object-contain"/>
