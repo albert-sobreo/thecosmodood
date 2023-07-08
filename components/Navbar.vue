@@ -4,7 +4,7 @@
         <div class="flex items-center justify-end gap-4 md:gap-16">
             <NuxtLink class="jetbrains-mono font-light text-gray-400 transition text-sm sm:text-base hover:text-gray-300 cursor-pointer" to="articles">Articles</NuxtLink>
             <NuxtLink class="jetbrains-mono font-light text-gray-400 transition text-sm sm:text-base hover:text-gray-300 cursor-pointer" to="calendar-default">Calendar</NuxtLink>
-            <NuxtLink class="jetbrains-mono font-light text-gray-400 transition text-sm sm:text-base hover:text-gray-300 cursor-pointer" to="articles">Clock</NuxtLink>
+            <NuxtLink class="jetbrains-mono font-light text-gray-400 transition text-sm sm:text-base hover:text-gray-300 cursor-pointer" to="clock-default">Clock</NuxtLink>
         </div>
     </div>
 </template>
