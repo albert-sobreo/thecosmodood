@@ -75,8 +75,8 @@
                             
                             <!-- CLOCK -->
                             <div class="border gap-2 flex flex-col items-center bg-slate-900 border-slate-700 w-60 h-72 rounded-3xl p-8 pb-2 transition hover:bg-slate-800 cursor-pointer">
-                                <div class="rounded-xl h-full w-full">
-
+                                <div class="rounded-xl h-full w-full flex items-center justify-center text-6xl text-gray-500">
+                                    <Clock/>
                                 </div>
 
                                 <span class="px-3 py-1 rounded-full bg-gray-950">Cosmo Clock</span>
