@@ -28,7 +28,7 @@
                 Among its many captivating acts, 
                 none are as mesmerizing and awe-inspiring as the explosive displays of solar flares.
                 Prepare to be enthralled as we embark on a journey through space and time to witness the thrilling tale of these fiery phenomena." 
-            address="unveiling-the-suns-fiery-dance-a-tale-of-solar-flares"
+            address="unveiling-the-suns-fiery-dance-a-tale-of-solar-flareshttps://github.com/albert-sobreo/thecosmodood.git"
             />
         </div>
     </div>
